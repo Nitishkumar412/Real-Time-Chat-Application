@@ -22,6 +22,18 @@ A full-stack real-time chat application built with **React.js**, **Node.js**, **
 
 ---
 
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](./home.png)
+
+### 💬 Chat Page
+![Chat Page](./chat.png)
+
+### 👤 Profile Page
+![Profile Page](./profile.png)
+
 ## 🗂️ Project Structure
 
 ```
